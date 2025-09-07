@@ -1,0 +1,5 @@
+{
+  "name": "Probador Virtualjm",
+  "description": "Sube tu foto y la de un atuendo para probártelo virtualmente. Esta aplicación utiliza IA para editar y combinar imágenes, permitiéndote visualizar cómo te quedaría la ropa sin alterar tus rasgos faciales o corporales.",
+  "requestFramePermissions": []
+}
